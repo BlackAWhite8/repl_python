@@ -1,0 +1,4 @@
+i create some text here
+to test command load for my
+repl
+;comment
